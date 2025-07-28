@@ -19,7 +19,6 @@ This project focuses on detecting fraudulent financial transactions using superv
 
 ## 📁 Files
 - `Fraud_Detection_Aman_Yadav.ipynb`: Main Jupyter Notebook
-- `Fraud_Detection_Aman_Yadav.pdf`: Exported version (optional)
 - `README.md`: Project overview
 
 ## 🚀 Outcome
